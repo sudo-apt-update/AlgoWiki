@@ -20,7 +20,7 @@ Learn Ruby through the following online and offline resources.
 
 ## Online Tutorials
 - [Learn to Program](https://pine.fm/LearnToProgram/) by Chris Pine
-- [why's poigniant guide to Ruby](http://poignant.guide/book/chapter-1.html)
+- [why's poignant guide to Ruby](http://poignant.guide/book/chapter-1.html)
 - [Try Ruby](http://tryruby.org/levels/1/challenges/0)
 - [Learn Ruby with the Edgecase Ruby Koans](http://rubykoans.com/)
 - [Codecademy: Ruby](https://www.codecademy.com/learn/learn-ruby)
